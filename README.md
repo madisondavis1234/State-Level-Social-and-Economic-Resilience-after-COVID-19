@@ -13,8 +13,7 @@ COVID-19 was not only a public health shock. It disrupted employment, household 
 
 This notebook uses state-level ACS data to evaluate economic and social indicators from the pre-COVID period and post-COVID recovery period. The goal is not simply to describe trends, but to identify patterns that can inform action.
 
-  
-
+  <br><br>
 
 <small> Note: GenAI was used as an assistive tool throughout this project to support coding, debugging and improve visual presentation of our analysis. Specifically, it was used to help troubleshoot Python issues encountered in Jupyter notebooks, improve the visual presentation of findings, refine written explanations, improve the organization and flow of the presentation, and support slide formatting and visual consistency throughout the final deliverable.
 
